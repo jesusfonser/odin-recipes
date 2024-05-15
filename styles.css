@@ -22,3 +22,12 @@ ul{
 ol, ul, li{
     background-color: pink;
 }
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.ultimo-paso{
+    color: orange;
+}
