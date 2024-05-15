@@ -1,6 +1,5 @@
 *{
     font-family: 'Courier New', Courier;
-    text-align: center;
     background-color: skyblue;
 }
 
@@ -12,3 +11,14 @@
     color: red;
 }
 
+h1, h2{
+    text-align:center;
+}
+
+ul{
+    font-weight: bold;
+}
+
+ol, ul, li{
+    background-color: pink;
+}
